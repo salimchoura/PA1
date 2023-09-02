@@ -1,0 +1,82 @@
+#top
+{
+    font-family:Arial;
+    font-size: 90px;
+    background-color: rgb(242,148,107);
+    color:black;
+    text-align: center;
+    height: 150px;
+    padding-top: 70px;
+}
+
+#middle
+{
+    padding-top: 30px;
+    background-color: rgb(253,185,101);
+    font-size: 90px;
+    height: 150px;
+    font-family: 'Courier New';
+}
+
+#sun
+{
+    padding-left: 400px;
+}
+
+#bottom
+{
+    background-color: rgb(249,223,116);
+    text-align: center;
+}
+
+img
+{
+    border: solid 10px black;
+    border-radius: 1000px;
+    border-style: dashed;
+}
+
+a:visited
+{
+    color: white;
+}
+
+p
+{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+table,tr, td, th
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: solid 10px ;
+    border-collapse: collapse;
+    border-style: dashed;
+}
+
+th
+{
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 30px;
+    font-family:'Gill Sans';
+    background-color: rgb(242,148,107);
+}
+
+tr
+{
+    height: 100px;
+}
+
+td
+{
+    font-size: 25px;
+    font-family:system-ui;
+    background-color: rgb(253,185,101);
+}

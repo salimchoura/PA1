@@ -1,0 +1,83 @@
+#top
+{
+    font-family:Georgia;
+    font-size: 80px;
+    background-color: rgb(40,46,84);
+    color: rgb(255,221,145);
+    text-align: center;
+    height: 150px;
+    padding-top: 70px;
+}
+
+#middle
+{
+    padding-top: 30px;
+    background-color: rgb(120,116,146);
+    font-size: 90px;
+    height: 150px;
+    font-family: 'Courier New';
+}
+
+#sun
+{
+    padding-left: 400px;
+}
+
+#bottom
+{
+    background-color: rgb(176,147,163);
+    text-align: center;
+}
+
+img
+{
+    border: solid 10px rgb(255,221,145);
+    border-radius: 1000px;
+    border-style: dotted;
+}
+
+a:visited
+{
+    color: white;
+}
+
+p
+{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 25px;
+    color: white;
+    font-family: Impact;
+}
+
+table,tr, td, th
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: solid 10px rgb(120,116,146);
+    border-collapse: collapse;
+    border-style: dotted;
+}
+
+th
+{
+    background-color: rgb(40,46,84);
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(255,221,145);
+    font-family: 'Franklin Gothic Medium';
+}
+
+tr
+{
+    height: 100px;
+}
+
+td
+{
+    background-color: rgb(176,147,163);
+    font-family: 'Trebuchet MS';
+    font-size: 30px;
+}
